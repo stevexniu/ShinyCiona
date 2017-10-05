@@ -3,7 +3,7 @@ Shiny app for our *Ciona* cardiopharyngeal specification single cell RNA-seq dat
 
 This shiny app is for local runs. You can also check the web interface at [ShinyCiona](https://ciona.shinyapps.io/shinyciona).
 
-The accompany paper is on [bioRxiv] (https://www.biorxiv.org/content/early/2017/06/16/150235).
+The accompany paper is on [bioRxiv](https://www.biorxiv.org/content/early/2017/06/16/150235).
 
 ## Installation
 First, you will need to install the following packages:
